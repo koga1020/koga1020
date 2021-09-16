@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm working as a web developer in Fukuoka, Japan.
+I'm working as a web developer in Fukuoka, Japan 👨‍💻
 
 ### 🔗  Links
 
