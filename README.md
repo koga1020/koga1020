@@ -11,7 +11,7 @@ I'm working as a web developer in Fukuoka, Japan 👨‍💻
 
 ### 📚  Books
 
-https://zenn.dev/koga1020/books/phoenix-guide-ja-1-5
+https://zenn.dev/koga1020/books/phoenix-guide-ja-1-6
 
 ### 🍵  Communities
 https://fukuokaex.connpass.com/
