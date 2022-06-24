@@ -6,6 +6,7 @@ I'm working as a web developer in Fukuoka, Japan 👨‍💻
 
 - [twitter](https://twitter.com/koga1020_)
 - [zenn](https://zenn.dev/koga1020)
+- [portfolio](https://koga1020.com/)
 
 ### 📚  Books
 
