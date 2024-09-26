@@ -4,7 +4,7 @@ I'm working as a web developer in Fukuoka, Japan 👨‍💻
 
 ### 🔗  Links
 
-- [twitter](https://twitter.com/koga1020_)
+- [x](https://x.com/koga1020_)
 - [zenn](https://zenn.dev/koga1020)
 - [portfolio](https://koga1020.com/)
 
